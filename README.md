@@ -14,6 +14,9 @@ Software Engineer and B.Tech CSE student with strong foundations in DSA, backend
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shsaish006&label=Profile%20views&color=0e75b6&style=flat" alt="shsaish006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsaish006" alt="shsaish006" /></a> </p>
@@ -22,7 +25,6 @@ Software Engineer and B.Tech CSE student with strong foundations in DSA, backend
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamkumarsingh006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamkumarsingh006/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saish007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saish007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivamsai006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamsai006" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shivam.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivam.jpg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivamsai006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamsai006" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shivams7gvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/shivams7gvr" height="30" width="40" /></a>
