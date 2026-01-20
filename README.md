@@ -14,8 +14,8 @@ Software Engineer and B.Tech CSE student with strong foundations in DSA, backend
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
+<h3 align="center">A passionate full stack developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shsaish006&label=Profile%20views&color=0e75b6&style=flat" alt="shsaish006" /> </p>
 
