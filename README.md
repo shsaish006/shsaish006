@@ -24,7 +24,7 @@ Software Engineer and B.Tech CSE student with strong foundations in DSA, backend
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shivams7gvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/shivams7gvr" height="30" width="40" /></a>
 </p>
 
-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shsaish006&show_icons=true&locale=en&layout=compact" alt="shsaish006" /></p>
 
