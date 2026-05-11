@@ -23,11 +23,6 @@ Software Engineer and B.Tech CSE student with strong foundations in DSA, backend
 <a href="https://www.leetcode.com/shivam_jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamsai006" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shivams7gvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/shivams7gvr" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shsaish006&show_icons=true&locale=en&layout=compact" alt="shsaish006" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shsaish006&show_icons=true&locale=en" alt="shsaish006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shsaish006&" alt="shsaish006" /></p>
