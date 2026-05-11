@@ -20,7 +20,7 @@ Software Engineer and B.Tech CSE student with strong foundations in DSA, backend
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamkumarsingh006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamkumarsingh006/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saish007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saish007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shivam.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivam.jpg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamsai006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamsai006" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivam_jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamsai006" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shivams7gvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/shivams7gvr" height="30" width="40" /></a>
 </p>
 
