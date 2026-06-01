@@ -13,7 +13,7 @@ Software Engineer and B.Tech CSE student with strong foundations in DSA, backend
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shsaish006&label=Profile%20views&color=0e75b6&style=flat" alt="shsaish006" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsaish006" alt="shsaish006" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsaish006" alt="shsaish006" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
